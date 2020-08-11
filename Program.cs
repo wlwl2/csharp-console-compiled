@@ -3,7 +3,7 @@
 namespace core_console {
     class Program {
         static void Main(string[] args) {
-            int quantityToAdd = 22;
+            int quantityToAdd = 24;
             int maxPerSlot = 5;
             int numberOfNewSlotsUsed = quantityToAdd / maxPerSlot;
             int numberInIncompleteSlot = quantityToAdd % maxPerSlot;
