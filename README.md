@@ -1,8 +1,16 @@
 # core-console
 
+## VS Code
+
+`dotnet run one two three`
+
+## Developer Command Prompt (Visual Studio)
+
 `dotnet run one two three`
 
 Open Developer Command Prompt for VS2015 (or some other version e.g. VS2017)
+
+### Compile
 
 `csc Program.cs`
 
