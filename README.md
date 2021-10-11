@@ -1,4 +1,4 @@
-# C# Console (Compiled)
+# Basic C# Console App (Compiled)
 
 Basic C# console app (with instructions on how to compile).
 
