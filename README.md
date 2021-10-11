@@ -4,9 +4,13 @@ Basic C# console app (with instructions on how to compile).
 
 ## VS Code
 
+Go to root folder and run:
+
 `dotnet run one two three`
 
 ## Developer Command Prompt (Visual Studio)
+
+Go to root folder and run:
 
 `dotnet run one two three`
 
