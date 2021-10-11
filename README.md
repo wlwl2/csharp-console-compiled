@@ -2,6 +2,8 @@
 
 Basic C# console app (with instructions on how to compile).
 
+**Sorry, I added a bit of unrelated code at the start. Originally this was meant to show command line arguments, I think.**
+
 ## VS Code
 
 Go to root folder and run:
@@ -10,11 +12,11 @@ Go to root folder and run:
 
 ## Developer Command Prompt (Visual Studio)
 
-Go to root folder and run:
+Open Developer Command Prompt for VS2015 (or some other version e.g. VS2017).
+
+You can go to root folder and run:
 
 `dotnet run one two three`
-
-Open Developer Command Prompt for VS2015 (or some other version e.g. VS2017)
 
 ### Compile
 
