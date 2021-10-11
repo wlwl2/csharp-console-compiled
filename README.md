@@ -1,6 +1,6 @@
 # C# Console (Compiled)
 
-
+Basic C# console app (with instructions on how to compile).
 
 ## VS Code
 
