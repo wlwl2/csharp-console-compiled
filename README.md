@@ -2,8 +2,6 @@
 
 Basic C# console app (with instructions on how to compile it and use the compiled version).
 
-**Sorry, I added a bit of unrelated code at the start. Originally this was meant to show command line arguments, I think.**
-
 ## VS Code
 
 Go to root folder and run:
@@ -20,9 +18,17 @@ You can go to root folder and run:
 
 ### Compile
 
+Go to the root/main folder (where this project is located):
+
 `csc Program.cs`
 
+To run in PowerShell:
+
 `./Program.exe one two "three 3"`
+
+To run in command prompt:
+
+`Program.exe one two "three 3"`
 
 add quotation marks for spaces
 
