@@ -2,6 +2,8 @@
 
 Basic C# console app (with instructions on how to compile it and use the compiled version).
 
+Currently only for Win 10.
+
 ## VS Code
 
 Go to root folder and run:
